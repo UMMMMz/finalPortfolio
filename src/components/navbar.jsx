@@ -88,7 +88,7 @@ var img = new Image();
          <Link href="https://github.com/UMMMMz">
          <img src= "/github.png" alt ="" width={24} height = {24 } />
          </Link>
-         <Link href="">
+         <Link href="https://www.linkedin.com/in/umar-abdullah-498699237/">
          <img src= "/linkedin.png" alt ="" width={24} height = {24 } />
          </Link>
          <Link href="https://www.instagram.com/umr0k__00__?igsh=MTFqdmE1bWlibHU3bA%3D%3D&utm_source=qr">
