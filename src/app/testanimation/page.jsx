@@ -1,5 +1,5 @@
 "use client"
-import {motion , useMotionValue  , useTransform} from "framer-motion"
+import {motion } from "framer-motion"
 
 const page = () => {
      const variants = {
